@@ -23,5 +23,5 @@ For MIMIC-III and MIMIC-IV: refer to https://pyhealth.readthedocs.io/en/latest/a
 To train the model and baselines in the paper, run this command:
 
 ```
-python train.py --model <MuHGTeL/Transformer/...> --dataset <mimic3/mimic4/...>
+python train.py --model <MuHGTeL/Transformer/...> --dataset <mimic3/mimic4>
 ```
